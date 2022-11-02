@@ -9,12 +9,15 @@ function add(a,b){
 console.log( add(3, 5) );
 
 //❓ LAB QUESTION 2:
-//YOUR CODE HERE
+let eight = add(2,6);
+console.log(eight);
 
 
 //❓ LAB QUESTION 3:
-//YOUR CODE HERE
+console.log(add);
 
 
 //❓ LAB QUESTION 4:
 //YOUR CODE HERE
+let sum = add; 
+console.log(add(1,2));
